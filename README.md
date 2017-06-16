@@ -28,12 +28,12 @@
 ===
 - 
 - accélérateur : 40'
-# Exposé - 5'
-# Clarification - 5'
-# Reformulation - 2'
-# Réactions, commentaires, suggestion - 20'
-# Synthèse et plan d'action - 5'
-# Evaluation - 5'
+  - Exposé - 5'
+  - Clarification - 5'
+  - Reformulation - 2'
+  - Réactions, commentaires, suggestion - 20'
+  - Synthèse et plan d'action - 5'
+  - Evaluation - 5'
 
 
 
