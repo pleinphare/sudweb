@@ -4,23 +4,23 @@
 - 
 - #atypique, #vitalisant, #enthousiasme, #affuter, #transmettre, #co-créer 
 
-1- Pour se connecter, se présenter et présenter la genèse.
+## 1- Pour se connecter, se présenter et présenter la genèse.
 - On va vous présenter
-2- Pour présenter l'alignement
+## 2- Pour présenter l'alignement
 - Planter l'intention
 - Poser l'impact
-3- Pour amorcer l'idée, expliquer running lean
+## 3- Pour amorcer l'idée, expliquer running lean
 - Consistant, pertinent pour pas faire un truc qui serve à rien
-4- Pour dévoiler les valeurs du projet
+## 4- Pour dévoiler les valeurs du projet
 - Construire un arbrifeste
-6- Pour présenter les problèmes validés et imaginer des solutions
+## 6- Pour présenter les problèmes validés et imaginer des solutions
 - Parler de la solution
-7- Pour construire les interviews solutions
+## 7- Pour construire les interviews solutions
 - Open space
 - Tester des ateliers
 - Construire un démonstrateur
 - Apprendre Github/Html
-8- Pour tester les ateliers
+## 8- Pour tester les ateliers
 - Construire le MVP
 
 
